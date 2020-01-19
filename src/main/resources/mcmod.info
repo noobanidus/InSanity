@@ -1,0 +1,21 @@
+[
+  {
+    "modid": "insanity",
+    "name": "Insanity",
+    "description": "A simple command to adjust the sanity level by an amount (positive or negative) instead of directly setting Sanity. ",
+    "version": "${version}",
+    "credits": "Noobanidus",
+    "logoFile": "",
+    "mcversion": "${mc_version}",
+    "url": "http://github.com/noobanidus/insanity",
+    "updateUrl": "",
+    "authorList": [
+      "Noobanidus"
+    ],
+    "parent": "",
+    "screenshots": [],
+    "dependencies": [
+      "forge", "sanity"
+    ]
+  }
+]
